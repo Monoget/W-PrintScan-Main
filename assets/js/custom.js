@@ -299,9 +299,6 @@
         }, 500 );
     });
 
-    // Buy Now Btn
-    $('body').append("<a href='https://themeforest.net/checkout/from_item/31104445?license=regular&support=bundle_6month&_ga=2.111841666.721751676.1644836235-918236941.1644836235' target='_blank' class='buy-now-btn'><img src='assets/images/envato.png' alt='envato'/>Buy Now</a>");
-
     // Count Time JS
 	function makeTimer() {
 		var endTime = new Date("December 30, 2022 17:00:00 PDT");			
