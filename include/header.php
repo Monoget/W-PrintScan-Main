@@ -68,52 +68,66 @@
                     <img src="assets/images/logos/logo-2.png" class="logo-two" alt="Logo">
                 </a>
                 <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
+                    <?php
+                    // Get the current path
+                    $currentPath = basename($_SERVER['PHP_SELF'], ".php");
+
+                    // Debug output
+                    echo "<!-- Current Path: $currentPath -->";
+
+                    // Define the paths for the services sub-menu
+                    $servicesPaths = ['fingerprint-cards', 'fbi-fingerprinting', 'mobile-fingerprinting', 'fingerprint-card-conversions'];
+
+                    // Check if the current path is a services path
+                    $isServiceActive = in_array($currentPath, $servicesPaths);
+                    ?>
+
                     <ul class="navbar-nav m-auto">
                         <li class="nav-item">
-                            <a href="home" class="nav-link active">
+                            <a href="home" class="nav-link <?php echo ($currentPath == '' || $currentPath == 'home'|| $currentPath == 'index') ? 'active' : ''; ?>">
                                 Home
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="javascript:void(0);" class="nav-link">
+                            <a href="javascript:void(0);" class="nav-link <?php echo $isServiceActive ? 'active' : ''; ?>">
                                 Services
                                 <i class="bx bx-chevron-down"></i>
                             </a>
                             <ul class="dropdown-menu">
                                 <li class="nav-item">
-                                    <a href="fingerprint-cards" class="nav-link">
+                                    <a href="fingerprint-cards" class="nav-link <?php echo $currentPath == 'fingerprint-cards' ? 'active' : ''; ?>">
                                         Fingerprint Cards
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="fbi-fingerprinting" class="nav-link">
+                                    <a href="fbi-fingerprinting" class="nav-link <?php echo $currentPath == 'fbi-fingerprinting' ? 'active' : ''; ?>">
                                         FBI Fingerprinting
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="mobile-fingerprinting" class="nav-link">
+                                    <a href="mobile-fingerprinting" class="nav-link <?php echo $currentPath == 'mobile-fingerprinting' ? 'active' : ''; ?>">
                                         Mobile Fingerprinting
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="fingerprint-card-conversions" class="nav-link">
+                                    <a href="fingerprint-card-conversions" class="nav-link <?php echo $currentPath == 'fingerprint-card-conversions' ? 'active' : ''; ?>">
                                         Fingerprint Card Conversions
                                     </a>
                                 </li>
                             </ul>
                         </li>
                         <li class="nav-item">
-                            <a href="about" class="nav-link">
+                            <a href="about" class="nav-link <?php echo $currentPath == 'about' ? 'active' : ''; ?>">
                                 About Us
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="faq" class="nav-link">
+                            <a href="faq" class="nav-link <?php echo $currentPath == 'faq' ? 'active' : ''; ?>">
                                 FAQ
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="contact" class="nav-link">
+                            <a href="contact" class="nav-link <?php echo $currentPath == 'contact' ? 'active' : ''; ?>">
                                 Contact Us
                             </a>
                         </li>
