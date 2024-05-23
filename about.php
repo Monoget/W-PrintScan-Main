@@ -20,7 +20,7 @@
             <h3>About Us</h3>
             <ul>
                 <li>
-                    <a href="index.html">Home</a>
+                    <a href="home">Home</a>
                     <i class="bx bx-chevron-right"></i>
                 </li>
                 <li>About Us</li>

@@ -29,7 +29,7 @@
                                 numerous service centers or prefer our technicians to visit your location, we ensure a
                                 seamless experience to fulfill all your fingerprinting needs.
                             </p>
-                            <a href="#" class="default-btn-two">Get started</a>
+                            <a href="contact" class="default-btn-two">Get started</a>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -53,7 +53,7 @@
                                 numerous service centers or prefer our technicians to visit your location, we ensure a
                                 seamless experience to fulfill all your fingerprinting needs.
                             </p>
-                            <a href="#" class="default-btn-two">Get started</a>
+                            <a href="contact" class="default-btn-two">Get started</a>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -77,27 +77,27 @@
         <div class="services-slider owl-carousel owl-theme pt-45">
             <div class="services-item">
                 <i class="flaticon-advertising"></i>
-                <h3><a href="#">Fingerprint Cards</a></h3>
+                <h3><a href="fingerprint-cards">Fingerprint Cards</a></h3>
                 <p>Lorem ipsum dolor sit amet, elit consectetur adipiscing elit ut nullam ullamcorper sapien nisl.</p>
-                <a href="#" class="read-more">Make an Appointment</a>
+                <a href="fingerprint-cards" class="read-more">Make an Appointment</a>
             </div>
             <div class="services-item">
                 <i class="flaticon-laptop"></i>
-                <h3><a href="#">FBI Fingerprinting</a></h3>
+                <h3><a href="fbi-fingerprinting">FBI Fingerprinting</a></h3>
                 <p>Lorem ipsum dolor sit amet, elit consectetur adipiscing elit ut nullam ullamcorper sapien nisl.</p>
-                <a href="#" class="read-more">Make an appointment</a>
+                <a href="fbi-fingerprinting" class="read-more">Make an appointment</a>
             </div>
             <div class="services-item">
                 <i class="flaticon-settings-1"></i>
-                <h3><a href="#">Mobile Fingerprinting</a></h3>
+                <h3><a href="mobile-fingerprinting">Mobile Fingerprinting</a></h3>
                 <p>Lorem ipsum dolor sit amet, elit consectetur adipiscing elit ut nullam ullamcorper sapien nisl.</p>
-                <a href="#" class="read-more">Make an appointment</a>
+                <a href="mobile-fingerprinting" class="read-more">Make an appointment</a>
             </div>
             <div class="services-item">
                 <i class="flaticon-startup"></i>
-                <h3><a href="#">Fingerprint Card Conversions</a></h3>
+                <h3><a href="fingerprint-card-conversions">Fingerprint Card Conversions</a></h3>
                 <p>Lorem ipsum dolor sit amet, elit consectetur adipiscing elit ut nullam.</p>
-                <a href="#" class="read-more">Make an appointment</a>
+                <a href="fingerprint-card-conversions" class="read-more">Make an appointment</a>
             </div>
         </div>
     </div>
@@ -140,7 +140,7 @@
                             </ul>
                         </div>
                     </div>
-                    <a href="#" class="default-btn-two">Read more</a>
+                    <a href="about" class="default-btn-two">Read more</a>
                 </div>
             </div>
         </div>
@@ -226,7 +226,7 @@
                 </p>
             </div>
             <div class="newsletter-area">
-                <form class="newsletter-form" data-toggle="validator" method="POST">
+                <form class="newsletter-form" action="insert" data-toggle="validator" method="POST">
                     <input type="email" class="form-control" placeholder="Enter your email" name="EMAIL" required
                            autocomplete="off">
                     <button class="subscribe-btn" type="submit">

@@ -70,57 +70,57 @@
                 <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                     <ul class="navbar-nav m-auto">
                         <li class="nav-item">
-                            <a href="#" class="nav-link active">
+                            <a href="home" class="nav-link active">
                                 Home
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="#" class="nav-link">
+                            <a href="javascript:void(0);" class="nav-link">
                                 Services
                                 <i class="bx bx-chevron-down"></i>
                             </a>
                             <ul class="dropdown-menu">
                                 <li class="nav-item">
-                                    <a href="#" class="nav-link">
+                                    <a href="fingerprint-cards" class="nav-link">
                                         Fingerprint Cards
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="nav-link">
+                                    <a href="fbi-fingerprinting" class="nav-link">
                                         FBI Fingerprinting
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="nav-link">
+                                    <a href="mobile-fingerprinting" class="nav-link">
                                         Mobile Fingerprinting
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="nav-link">
+                                    <a href="fingerprint-card-conversions" class="nav-link">
                                         Fingerprint Card Conversions
                                     </a>
                                 </li>
                             </ul>
                         </li>
                         <li class="nav-item">
-                            <a href="#" class="nav-link">
+                            <a href="about" class="nav-link">
                                 About Us
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="#" class="nav-link">
+                            <a href="faq" class="nav-link">
                                 FAQ
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="#" class="nav-link">
+                            <a href="contact" class="nav-link">
                                 Contact Us
                             </a>
                         </li>
                     </ul>
                     <div class="nav-bar-side">
                         <div class="nav-btn">
-                            <a href="#" class="default-btn-two">Get Started</a>
+                            <a href="contact" class="default-btn-two">Get Started</a>
                         </div>
                     </div>
                 </div>
@@ -140,7 +140,7 @@
                 <div class="side-nav-inner">
                     <div class="side-nav justify-content-center align-items-center">
                         <div class="side-nav-item">
-                            <a href="#" class="side-nav-btn">Get Started</a>
+                            <a href="contact" class="side-nav-btn">Get Started</a>
                         </div>
                     </div>
                 </div>

@@ -25,3 +25,5 @@ RewriteRule ^privacy-policy privacy-policy.php [NC,L]
 RewriteRule ^server-config php-info.php [NC,L]
 
 RewriteRule ^error error.php [NC,L]
+
+RewriteRule ^insert insert.php [NC,L]
