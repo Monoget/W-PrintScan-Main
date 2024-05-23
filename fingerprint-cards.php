@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Blog Details - SK Fingerprint</title>
+    <title>Fingerprint Cards - SK Fingerprint</title>
 
     <?php include('include/css.php'); ?>
 </head>
@@ -17,13 +17,13 @@
 <div class="inner-banner">
     <div class="container">
         <div class="inner-title text-center">
-            <h3>Blog Details</h3>
+            <h3>Fingerprint Cards</h3>
             <ul>
                 <li>
-                    <a href="index.html">Home</a>
+                    <a href="home">Home</a>
                     <i class="bx bx-chevron-right"></i>
                 </li>
-                <li>Blog Details</li>
+                <li>Fingerprint Cards</li>
             </ul>
         </div>
     </div>
