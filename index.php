@@ -90,7 +90,7 @@
 <div class="navbar-area">
 
     <div class="mobile-nav">
-        <a href="index.html" class="logo">
+        <a href="home" class="logo">
             <img src="assets/images/logos/logo-1.png" class="logo-one" alt="Logo">
             <img src="assets/images/logos/logo-2.png" class="logo-two" alt="Logo">
         </a>
@@ -99,7 +99,7 @@
     <div class="main-nav main-nav-bottom">
         <div class="container">
             <nav class="navbar navbar-expand-md navbar-light ">
-                <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" href="home">
                     <img src="assets/images/logos/logo-1.png" class="logo-one" alt="Logo">
                     <img src="assets/images/logos/logo-2.png" class="logo-two" alt="Logo">
                 </a>

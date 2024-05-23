@@ -1,0 +1,27 @@
+ErrorDocument 404 http://localhost/W-PrintScan-Main/error
+
+RewriteEngine on
+
+RewriteRule ^home index.php [NC,L]
+
+RewriteRule ^fingerprint-cards fingerprint-cards.php [NC,L]
+
+RewriteRule ^fbi-fingerprinting fbi-fingerprinting.php [NC,L]
+
+RewriteRule ^mobile-fingerprinting mobile-fingerprinting.php [NC,L]
+
+RewriteRule ^fingerprint-card-conversions fingerprint-card-conversions.php [NC,L]
+
+RewriteRule ^faq faq.php [NC,L]
+
+RewriteRule ^about about.php [NC,L]
+
+RewriteRule ^contact contact.php [NC,L]
+
+RewriteRule ^terms-and-condition terms-and-condition.php [NC,L]
+
+RewriteRule ^privacy-policy privacy-policy.php [NC,L]
+
+RewriteRule ^server-config php-info.php [NC,L]
+
+RewriteRule ^error error.php [NC,L]
