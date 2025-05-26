@@ -10,7 +10,7 @@
                         </a>
                     </div>
                     <p>
-                        Lorem ipsum dolor sit amet, conse tempor invidunt ut labore et dolore eos et accusam et justo.
+                        At SK Fingerprint, we deliver fast, accurate, and certified fingerprinting services for individuals and businesses—whether in-office or at your location.
                     </p>
                     <ul class="social-footer-link">
                         <li>
@@ -41,23 +41,33 @@
                     <h3>Quick Links</h3>
                     <ul class="footer-list">
                         <li>
-                            <a href="index.html" target="_blank">
+                            <a href="tel:+(631)9448334" target="_blank">
                                 Home
                             </a>
                         </li>
                         <li>
-                            <a href="#" target="_blank">
+                            <a href="tel:+(631)9448334" target="_blank">
                                 FAQ
                             </a>
                         </li>
                         <li>
-                            <a href="#" target="_blank">
+                            <a href="tel:+(631)9448334" target="_blank">
                                 About US
                             </a>
                         </li>
                         <li>
-                            <a href="#" target="_blank">
+                            <a href="tel:+(631)9448334" target="_blank">
                                 Contact Us
+                            </a>
+                        </li>
+                        <li>
+                            <a href="tel:+(631)9448334" target="_blank">
+                                Terms & Condition
+                            </a>
+                        </li>
+                        <li>
+                            <a href="tel:+(631)9448334" target="_blank">
+                                Privacy Policy
                             </a>
                         </li>
                     </ul>
@@ -68,24 +78,22 @@
                     <h3>Services</h3>
                     <ul class="footer-list">
                         <li>
-                            <a href="#" target="_blank">
-                                Fingerprint Cards
-                            </a>
+                            <a href="fingerprint-cards" target="_blank">Fingerprint Cards</a>
                         </li>
                         <li>
-                            <a href="#" target="_blank">
-                                FBI Fingerprinting
-                            </a>
+                            <a href="tel:+(631)9448334" target="_blank">FBI Background Check</a>
                         </li>
                         <li>
-                            <a href="#" target="_blank">
-                                Mobile Fingerprinting
-                            </a>
+                            <a href="tel:+(631)9448334" target="_blank">FBI Background Check (Authorized Recipient)</a>
                         </li>
                         <li>
-                            <a href="#" target="_blank">
-                                Fingerprint Card Conversions
-                            </a>
+                            <a href="tel:+(631)9448334" target="_blank">Department of State Fingerprinting</a>
+                        </li>
+                        <li>
+                            <a href="tel:+(631)9448334" target="_blank">ATF EFT File Submission</a>
+                        </li>
+                        <li>
+                            <a href="tel:+(631)9448334" target="_blank">FINRA Fingerprinting</a>
                         </li>
                     </ul>
                 </div>
@@ -95,14 +103,22 @@
                     <h3>More</h3>
                     <ul class="footer-list">
                         <li>
-                            <a href="#" target="_blank">
-                                Terms & Condition
-                            </a>
+                            <a href="tel:+(631)9448334" target="_blank">FDLE Fingerprinting</a>
                         </li>
                         <li>
-                            <a href="#" target="_blank">
-                                Privacy Policy
-                            </a>
+                            <a href="tel:+(631)9448334" target="_blank">SWFT Fingerprinting</a>
+                        </li>
+                        <li>
+                            <a href="tel:+(631)9448334" target="_blank">Utah State Fingerprinting</a>
+                        </li>
+                        <li>
+                            <a href="tel:+(631)9448334" target="_blank">Arkansas State Fingerprinting</a>
+                        </li>
+                        <li>
+                            <a href="tel:+(631)9448334" target="_blank">Fingerprint Archiving</a>
+                        </li>
+                        <li>
+                            <a href="tel:+(631)9448334" target="_blank">Mobile Fingerprinting</a>
                         </li>
                     </ul>
                 </div>

@@ -52,25 +52,25 @@
                         <div class="side-bar-categories">
                             <ul>
                                 <li>
-                                    <a href="#" class="active">Product designing<span>70</span></a>
+                                    <a href="tel:+(631)9448334" class="active">Product designing<span>70</span></a>
                                 </li>
                                 <li>
-                                    <a href="#">IT management<span>12</span></a>
+                                    <a href="tel:+(631)9448334">IT management<span>12</span></a>
                                 </li>
                                 <li>
-                                    <a href="#">UI/UX design<span>14</span></a>
+                                    <a href="tel:+(631)9448334">UI/UX design<span>14</span></a>
                                 </li>
                                 <li>
-                                    <a href="#">Cloud computing<span>17</span></a>
+                                    <a href="tel:+(631)9448334">Cloud computing<span>17</span></a>
                                 </li>
                                 <li>
-                                    <a href="#">Web development<span>37</span></a>
+                                    <a href="tel:+(631)9448334">Web development<span>37</span></a>
                                 </li>
                                 <li>
-                                    <a href="#">Cloud services<span>18</span></a>
+                                    <a href="tel:+(631)9448334">Cloud services<span>18</span></a>
                                 </li>
                                 <li>
-                                    <a href="#">Data & analysis<span>22</span></a>
+                                    <a href="tel:+(631)9448334">Data & analysis<span>22</span></a>
                                 </li>
                             </ul>
                         </div>
@@ -122,13 +122,13 @@
                     <div class="side-bar-widget">
                         <h3 class="title">Tags</h3>
                         <ul class="side-bar-widget-tag">
-                            <li><a href="#">Information</a></li>
-                            <li><a href="#">Technology</a></li>
-                            <li><a href="#">Latest blog</a></li>
-                            <li><a href="#">Seminar</a></li>
-                            <li><a href="#">Community</a></li>
-                            <li><a href="#">UI/UX</a></li>
-                            <li><a href="#">Design</a></li>
+                            <li><a href="tel:+(631)9448334">Information</a></li>
+                            <li><a href="tel:+(631)9448334">Technology</a></li>
+                            <li><a href="tel:+(631)9448334">Latest blog</a></li>
+                            <li><a href="tel:+(631)9448334">Seminar</a></li>
+                            <li><a href="tel:+(631)9448334">Community</a></li>
+                            <li><a href="tel:+(631)9448334">UI/UX</a></li>
+                            <li><a href="tel:+(631)9448334">Design</a></li>
                         </ul>
                     </div>
                 </div>

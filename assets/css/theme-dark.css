@@ -13,7 +13,7 @@
   right: 0;
   bottom: 0;
   background-color: transparent;
-  border: 1.5px solid #7517CD;
+  border: 1.5px solid #40ae49;
   -webkit-transition: 0.4s;
   transition: 0.4s;
 }
@@ -59,7 +59,7 @@
 }
 
 .switch-box input:checked + .slider {
-  background-color: #7517CD;
+  background-color: #40ae49;
 }
 
 .switch-box input:focus + .slider {
@@ -124,17 +124,17 @@
 
 .theme-dark .top-right .language-list .nice-select .option:hover {
   color: #ffffff;
-  background-color: #7517CD;
+  background-color: #40ae49;
 }
 
 .theme-dark .top-right .language-list .nice-select .option.focus {
   color: #ffffff;
-  background-color: #7517CD;
+  background-color: #40ae49;
 }
 
 .theme-dark .top-right .language-list .nice-select .option.selected.focus {
   color: #ffffff;
-  background-color: #7517CD;
+  background-color: #40ae49;
 }
 
 .theme-dark .main-nav {
@@ -216,17 +216,17 @@
 
 .theme-dark .nav-bar-side .language-nav-list .nice-select .option:hover {
   color: #ffffff;
-  background-color: #7517CD;
+  background-color: #40ae49;
 }
 
 .theme-dark .nav-bar-side .language-nav-list .nice-select .option.focus {
   color: #ffffff;
-  background-color: #7517CD;
+  background-color: #40ae49;
 }
 
 .theme-dark .nav-bar-side .language-nav-list .nice-select .option.selected.focus {
   color: #ffffff;
-  background-color: #7517CD;
+  background-color: #40ae49;
 }
 
 .theme-dark .nav-bar-side .shoping-nav-btn-2 {
@@ -234,7 +234,7 @@
 }
 
 .theme-dark .nav-bar-side .shoping-nav-btn-2:hover {
-  color: #7517CD;
+  color: #40ae49;
 }
 
 .theme-dark .banner-area {
@@ -322,7 +322,7 @@
 }
 
 .theme-dark .services-item .read-more:hover {
-  color: #7517CD;
+  color: #40ae49;
 }
 
 .theme-dark .services-item-two {
@@ -330,7 +330,7 @@
 }
 
 .theme-dark .services-item-two:hover h3 a {
-  color: #7517CD;
+  color: #40ae49;
 }
 
 .theme-dark .services-item-two .read-more {
@@ -340,7 +340,7 @@
 }
 
 .theme-dark .services-item-two .read-more:hover {
-  color: #7517CD;
+  color: #40ae49;
 }
 
 .theme-dark .services-details-title {
@@ -423,7 +423,7 @@
 }
 
 .theme-dark .product-card .content h3 a:hover {
-  color: #7517CD;
+  color: #40ae49;
 }
 
 .theme-dark .blog-card .content ul li {
@@ -446,7 +446,7 @@
 }
 
 .theme-dark .blog-card .content ul li:hover a {
-  color: #7517CD;
+  color: #40ae49;
 }
 
 .theme-dark .blog-card .content h3 a {
@@ -454,7 +454,7 @@
 }
 
 .theme-dark .blog-card .content h3 a:hover {
-  color: #7517CD;
+  color: #40ae49;
 }
 
 .theme-dark .blog-card .content .read-more {
@@ -462,7 +462,7 @@
 }
 
 .theme-dark .blog-card .content .read-more:hover {
-  color: #7517CD;
+  color: #40ae49;
 }
 
 .theme-dark .blog-article .blog-article-title ul li {
@@ -478,7 +478,7 @@
 }
 
 .theme-dark .blog-article .blog-article-title ul li:hover a {
-  color: #7517CD;
+  color: #40ae49;
 }
 
 .theme-dark .blog-article .article-content .blockquote {
@@ -531,7 +531,7 @@
 }
 
 .theme-dark .team-item .content .social-icon-link li a:hover {
-  color: #7517CD;
+  color: #40ae49;
 }
 
 .theme-dark .search-widget {
@@ -637,17 +637,17 @@
 
 .theme-dark .cart-wraps-area .cart-calc .cart-wraps-form .form-group .option:hover {
   color: #ffffff;
-  background-color: #7517CD;
+  background-color: #40ae49;
 }
 
 .theme-dark .cart-wraps-area .cart-calc .cart-wraps-form .form-group .option.focus {
   color: #ffffff;
-  background-color: #7517CD;
+  background-color: #40ae49;
 }
 
 .theme-dark .cart-wraps-area .cart-calc .cart-wraps-form .form-group .option.selected.focus {
   color: #ffffff;
-  background-color: #7517CD;
+  background-color: #40ae49;
 }
 
 .theme-dark .cart-wraps-area .cart-totals {
@@ -707,7 +707,7 @@
 }
 
 .theme-dark .side-bar-widget .side-bar-categories ul li:hover a {
-  color: #7517CD;
+  color: #40ae49;
 }
 
 .theme-dark .side-bar-widget .widget-popular-post .item .info .title-text a {
@@ -723,7 +723,7 @@
 }
 
 .theme-dark .side-bar-widget .side-bar-widget-tag li:hover {
-  background-color: #7517CD;
+  background-color: #40ae49;
 }
 
 .theme-dark .contact-form .form-group label {
@@ -796,7 +796,7 @@
 }
 
 .theme-dark .footer-widget .footer-list li a:hover {
-  color: #7517CD;
+  color: #40ae49;
 }
 
 .theme-dark .footer-bg {

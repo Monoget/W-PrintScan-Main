@@ -20,18 +20,18 @@
                         <ul>
                             <li>
                                 <i class="bx bx-time"></i>
-                                SUN - THU
-                                <span>8:00 AM - 9:00 PM</span>
+                                MON - SUN
+                                <span>7:00 AM - 9:00 PM</span>
                             </li>
                             <li>
                                 <i class="bx bx-map"></i>
                                 OFFICE
-                                <span>3460 Grove Avenue</span>
+                                <span>153-27 Hillside Ave, Jamaica, NY-11432</span>
                             </li>
                             <li>
                                 <i class="bx bx-phone-call"></i>
                                 CALL
-                                <span><a href="tel:+(103)2223333">+ (103) 222 3333</a></span>
+                                <span><a href="tel:+(631)9448334">+ (631) 944 8334</a></span>
                             </li>
                         </ul>
                     </div>
@@ -95,46 +95,86 @@
                             </a>
                             <ul class="dropdown-menu">
                                 <li class="nav-item">
-                                    <a href="fingerprint-cards" class="nav-link <?php echo $currentPath == 'fingerprint-cards' ? 'active' : ''; ?>">
+                                    <a href="tel:+(631)9448334" class="nav-link <?php echo $currentPath == 'fingerprint-cards' ? 'active' : ''; ?>">
                                         Fingerprint Cards
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="fbi-fingerprinting" class="nav-link <?php echo $currentPath == 'fbi-fingerprinting' ? 'active' : ''; ?>">
-                                        FBI Fingerprinting
+                                    <a href="tel:+(631)9448334" class="nav-link <?php echo $currentPath == 'fbi-background-check' ? 'active' : ''; ?>">
+                                        FBI Background Check
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="mobile-fingerprinting" class="nav-link <?php echo $currentPath == 'mobile-fingerprinting' ? 'active' : ''; ?>">
+                                    <a href="tel:+(631)9448334" class="nav-link <?php echo $currentPath == 'fbi-authorized-recipient' ? 'active' : ''; ?>">
+                                        FBI Background Check (Authorized Recipient)
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="tel:+(631)9448334" class="nav-link <?php echo $currentPath == 'department-of-state' ? 'active' : ''; ?>">
+                                        Department of State
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="tel:+(631)9448334" class="nav-link <?php echo $currentPath == 'atf-eft-fingerprinting' ? 'active' : ''; ?>">
+                                        ATF EFT Submission
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="tel:+(631)9448334" class="nav-link <?php echo $currentPath == 'finra-fingerprinting' ? 'active' : ''; ?>">
+                                        FINRA Fingerprinting
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="tel:+(631)9448334" class="nav-link <?php echo $currentPath == 'fdle-fingerprinting' ? 'active' : ''; ?>">
+                                        FDLE Fingerprinting
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="tel:+(631)9448334" class="nav-link <?php echo $currentPath == 'swft-fingerprinting' ? 'active' : ''; ?>">
+                                        SWFT Fingerprinting
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="tel:+(631)9448334" class="nav-link <?php echo $currentPath == 'utah-fingerprinting' ? 'active' : ''; ?>">
+                                        Utah State Fingerprinting
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="tel:+(631)9448334" class="nav-link <?php echo $currentPath == 'arkansas-fingerprinting' ? 'active' : ''; ?>">
+                                        Arkansas State Fingerprinting
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="tel:+(631)9448334" class="nav-link <?php echo $currentPath == 'fingerprint-archiving' ? 'active' : ''; ?>">
+                                        Fingerprint Archiving
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="tel:+(631)9448334" class="nav-link <?php echo $currentPath == 'mobile-fingerprinting' ? 'active' : ''; ?>">
                                         Mobile Fingerprinting
-                                    </a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="fingerprint-card-conversions" class="nav-link <?php echo $currentPath == 'fingerprint-card-conversions' ? 'active' : ''; ?>">
-                                        Fingerprint Card Conversions
                                     </a>
                                 </li>
                             </ul>
                         </li>
                         <li class="nav-item">
-                            <a href="about" class="nav-link <?php echo $currentPath == 'about' ? 'active' : ''; ?>">
+                            <a href="tel:+(631)9448334" class="nav-link <?php echo $currentPath == 'about' ? 'active' : ''; ?>">
                                 About Us
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="faq" class="nav-link <?php echo $currentPath == 'faq' ? 'active' : ''; ?>">
+                            <a href="tel:+(631)9448334" class="nav-link <?php echo $currentPath == 'faq' ? 'active' : ''; ?>">
                                 FAQ
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="contact" class="nav-link <?php echo $currentPath == 'contact' ? 'active' : ''; ?>">
+                            <a href="tel:+(631)9448334" class="nav-link <?php echo $currentPath == 'contact' ? 'active' : ''; ?>">
                                 Contact Us
                             </a>
                         </li>
                     </ul>
                     <div class="nav-bar-side">
                         <div class="nav-btn">
-                            <a href="contact" class="default-btn-two">Get Started</a>
+                            <a href="tel:+(631)9448334" class="default-btn-two">Get Started</a>
                         </div>
                     </div>
                 </div>
